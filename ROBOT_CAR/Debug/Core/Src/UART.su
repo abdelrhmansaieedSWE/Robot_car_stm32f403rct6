@@ -1,0 +1,4 @@
+../Core/Src/UART.cpp:11:6:void UART_INIT()	4	static
+../Core/Src/UART.cpp:18:6:void Send(char)	16	static
+../Core/Src/UART.cpp:23:6:void Send(const char*)	16	static
+../Core/Src/UART.cpp:31:5:int Read()	4	static

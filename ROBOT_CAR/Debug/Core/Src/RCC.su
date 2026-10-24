@@ -1,0 +1,2 @@
+../Core/Src/RCC.cpp:9:2:RCC_AHP1ENR::RCC_AHP1ENR(Port_)	16	static
+../Core/Src/RCC.cpp:14:2:RCC_APB2ENR::RCC_APB2ENR(UART_ENR)	16	static

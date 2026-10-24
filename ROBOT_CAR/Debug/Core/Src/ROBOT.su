@@ -1,0 +1,7 @@
+../Core/Src/ROBOT.cpp:9:1:ROBOT::ROBOT(volatile GPIO_t*, PIN, PIN, PIN, PIN)	64	static
+../Core/Src/ROBOT.cpp:19:1:ROBOT::~ROBOT()	32	static
+../Core/Src/ROBOT.cpp:28:6:void ROBOT::Forword()	16	static
+../Core/Src/ROBOT.cpp:36:6:void ROBOT::Back()	16	static
+../Core/Src/ROBOT.cpp:44:6:void ROBOT::STOP()	16	static
+../Core/Src/ROBOT.cpp:53:6:void ROBOT::Right()	16	static
+../Core/Src/ROBOT.cpp:61:6:void ROBOT::Lift()	16	static
