@@ -16,16 +16,13 @@ int main()
     PORT_OUT ptest1(GPIOA,PIN::pin5,PIN_MODE::General_purpose_output_mode,TYPE::OUTPUT);
 
     ROBOT R1(GPIOA,PIN::pin0,PIN::pin1,PIN::pin2,PIN::pin3);
-
-    PORT_OUT p1(GPIOA,PIN::pin0,PIN_MODE::General_purpose_output_mode,TYPE::OUTPUT);
-
     UART_INIT();
 
 
 	while(1)
 	{
 
-		p1.ON();
+
 
 	int read=Read();
 	if(read=='F')
